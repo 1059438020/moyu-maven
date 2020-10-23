@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Oct 23 00:53:25 CST 2020
+@default-1059438020-https\://raw.githubusercontent.com/1059438020/moyu-maven/master/.lastUpdated=1603385605882
+https\://maven.aliyun.com/repository/central/.lastUpdated=1603385499617
+@default-1059438020-maven-master-repository-https\://raw.githubusercontent.com/1059438020/moyu-maven/master/.lastUpdated=1603385499625
+https\://raw.githubusercontent.com/1059438020/moyu-maven/master/.error=Could not transfer artifact name.bryce\:moyu-blog-dao\:pom\:1.0.0-SNAPSHOT from/to 1059438020 (https\://raw.githubusercontent.com/1059438020/moyu-maven/master)\: raw.githubusercontent.com
+https\://maven.aliyun.com/repository/central/.error=
